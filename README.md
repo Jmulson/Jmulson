@@ -5,20 +5,20 @@ My goal for creating this portfolio is to showcase the core skills that I have d
 These projects will provide me with end-to-end experience in handling data from ingestion to analysis.
 
 Phase 1: Foundational Projects
-1. Data Pipeline for Ingesting Public Safety Data
-2. Database Schema Design and SQL Optimization
-3. Data Lake for Storage of Unstructured Data
-4. Automated Data Cleaning and Transformation Pipeline
+- Data Pipeline for Ingesting Public Safety Data
+- Database Schema Design and SQL Optimization
+- Data Lake for Storage of Unstructured Data
+- Automated Data Cleaning and Transformation Pipeline
 
 Phase 2: Intermediate Projects
-5. Data Warehousing with Star Schema for Crime Analysis
-6. Interactive Dashboard Using Tableau
-7. API Development for Public Safety Data Access
+- Data Warehousing with Star Schema for Crime Analysis
+- Interactive Dashboard Using Tableau
+- API Development for Public Safety Data Access
 
 Phase 3: Advanced Projects
-8. Streaming Data with Kafka
-9. Batch Processing and Aggregation with Apache Spark
-10. Predictive Modeling for Crime Forecasting
+- Streaming Data with Kafka
+- Batch Processing and Aggregation with Apache Spark
+- Predictive Modeling for Crime Forecasting
 
 <!--
 **Jmulson/Jmulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
